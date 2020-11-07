@@ -1,0 +1,28 @@
+h1{
+	color: red;
+
+}
+h3{
+	float: left;
+	margin: 0px;
+	margin-left: 5px;
+	color: yellow;
+}
+input{
+	margin-left: 10px;
+}
+
+.triangle{
+	margin-top: 60px;
+	width: 0;
+	height: 0;
+	border-top: 80px solid transparent;
+	border-left: 100px solid red;
+	border-bottom: 80px solid transparent;
+}
+body{
+	background-image: url('lab2.jpg');
+	background-position: center;
+
+
+}
